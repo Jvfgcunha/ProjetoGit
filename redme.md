@@ -1,0 +1,1 @@
+Olá esse projeto apresenta como realiza a construção de uma calculadora utilizando python e a biblioteca TKINTER.
